@@ -9,7 +9,7 @@ Basic commands of the bot:
 /start - Start bot (Show schedule)  
 /r_start - Start working with the bot bypassing the selection of specialty and course (This requires registration first)  
 /exam - Display the exams schedule  
-/plan - output the syllabus 
+/plan - output the syllabus   
 /register - Register to use the command /r_start  
 
 In this bot implemented interesting solutions, such as: the queue to work with the bot, mass mailing, communication with the developer.
